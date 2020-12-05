@@ -1,0 +1,27 @@
+body {user-select: none;}
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+b {
+    user-select: text;
+}
+.btn {
+    font-family: Courier New;
+    border: 2px solid black;
+}
+.start {
+    background-color: lightgreen;
+}
+.stop {
+    background-color: red;
+}
+#err {
+    color: red;
+}
+#info {
+    color: darkslateblue;
+}
+.log {
+    border: 1px solid black;
+    background-color: grey;
+}

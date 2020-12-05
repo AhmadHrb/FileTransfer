@@ -1,0 +1,19 @@
+{
+  "name": "file-transfer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Pocket, Inc.",
+  "license": "MIT",
+  "description": "File Transfer Application",
+  "devDependencies": {
+    "electron": "^10.1.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "serve-index": "^1.9.1"
+  }
+}
